@@ -18,7 +18,7 @@
     <input type="radio" name="idade" value="entre 21 e 30"> 21-30 <br>
     <input type="radio" name="idade" value="de 31 a 40"> 31-40 <br>
     <input type="radio" name="idade" value="maior que 40"> >40 <br>
-    <label>Localidae: </label>
+    <label>Localidade: </label>
     <select name ="localidade">
         <option value="Chaves">Chaves</option>;
     </select><br>
