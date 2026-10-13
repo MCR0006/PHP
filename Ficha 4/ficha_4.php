@@ -23,7 +23,7 @@
         <option value="Chaves">Chaves</option>;
     </select><br>
     <label>Sugest: </label>
-    <textarea name="sugestoes" rows="5" cols="30">/textarea>
+    <textarea name="sugestoes" rows="5" cols="30"></textarea>
         <input type="submit" value="Enviar">
         <input type="reset" value="Limpar"> 
 
