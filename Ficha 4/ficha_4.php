@@ -4,7 +4,7 @@
     <title>Ficha 4</title>
 </head>
 <body>
-    <form>
+    <form action=results.php method="post">
     <label>Nome: </label>
     <input type="text" name="nome">
     <br>
