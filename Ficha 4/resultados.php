@@ -1,5 +1,5 @@
 <?php
-echo "<h2> Listagem de resultado</>";
+echo "<h2> Listagem de resultado</h2>";
 $n=$_POST ['nome'];
 echo "Nome:$n<br>";
 $a=$_POST ['apelido'];
@@ -11,6 +11,5 @@ echo "Idade:$a<br>";
 $l=$_POST ['localidade'];
 echo "Localidade:$l<br>";
 $s=$_POST ['sugestoes'];
-echo "Sugestoes:$s<br>";
-
+echo "Sugestões:$s<br>";
 ?>
